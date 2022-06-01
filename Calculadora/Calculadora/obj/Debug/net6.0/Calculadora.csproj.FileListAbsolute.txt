@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Desktop\Linguagem\C#\2022\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.exe
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Desktop\Linguagem\C#\2022\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.deps.json
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Desktop\Linguagem\C#\2022\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.runtimeconfig.json
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Desktop\Linguagem\C#\2022\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.dll
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Desktop\Linguagem\C#\2022\Calculadora\Calculadora\bin\Debug\net6.0\ref\Calculadora.dll
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Desktop\Linguagem\C#\2022\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.pdb
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Desktop\Linguagem\C#\2022\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Desktop\Linguagem\C#\2022\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Desktop\Linguagem\C#\2022\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Desktop\Linguagem\C#\2022\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfo.cs
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Desktop\Linguagem\C#\2022\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Desktop\Linguagem\C#\2022\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.dll
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Desktop\Linguagem\C#\2022\Calculadora\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Desktop\Linguagem\C#\2022\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.pdb
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Desktop\Linguagem\C#\2022\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.genruntimeconfig.cache
